@@ -1,11 +1,15 @@
-# Optimization of gold recovery
+# Selection of a region for oil development
 
-Based on the data on the parameters of gold ore processing , models were trained to predict the efficiency of the process.
+**Problem:**
+The oil company wants to find the most suitable region for the development of new wells, which is likely to bring the greatest income.
 
-Data preprocessing was conducted. NA values were found in the input data, which were filled in by neighboring values, and anomalies, for example, zero concentrations of substances at some stages. Lines with anomalies have been removed.
+We have data from oil samples in three regions:  10,000 wells in each with measured the quality of oil and the volume of its reserves.
 
+**What was done:**
 
+Data preprocessing was made.
+Oil supply for break-even development was calculated.
 
-The best results (smaller sMAPE metric) were obtained using the random forest model. 
+Models were constructed to predict the oil supply in each well.
 
-Despite all efforts, the resulting model performs worse than the random one. 
+We calculated profit of oil development in each region taking into account product reserve, budget per region and product profit. 
