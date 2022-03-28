@@ -2,7 +2,7 @@
 
 **Problem**:
 
-TPredict the number of taxi orders for the next hour.
+Predict the number of taxi orders for the next hour.
 
 
 **What was done**: 
