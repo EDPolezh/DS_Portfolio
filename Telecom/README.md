@@ -1,7 +1,7 @@
 # Telecom customers outflow prediction
 
 ## Data
-*`contract.csv` — contract information;
+* `contract.csv` — contract information;
 * `personal.csv` — client information;
 * `internet.csv` — information about internet services;
 * `phone.csv` — information about phone services.
