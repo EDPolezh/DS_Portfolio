@@ -1,12 +1,12 @@
 # Telecom customers outflow prediction
 
-##Data
+## Data
 *`contract.csv` — contract information;
 * `personal.csv` — client information;
 * `internet.csv` — information about internet services;
 * `phone.csv` — information about phone services.
 
-##Problem
+## Problem
 
 The telecom operator wants to predict the outflow of customers. 
 If it turns out that the user is going to leave, he will be offered promotional codes and special conditions. 
