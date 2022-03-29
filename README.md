@@ -11,3 +11,6 @@ This repository is created for projects I have done under Praktikum by Yandex Da
 | Industry Gold | Optimization of golden ore processing | *pandas*, *sklearn*, *stats*, *seaborn* |
 | Oil Development | Prediction the profit from oil development in different regions| *pandas*, *sklearn*|
 
+
+*Вопрос к проверяющему*: В файлах jupyter notebook видны не все выводы. С чем это может быть связано и как починить?
+
